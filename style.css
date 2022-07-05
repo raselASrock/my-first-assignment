@@ -1,0 +1,376 @@
+.first-banner {
+    background-image: url(images/hero.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-top: 0%;
+    position: relative;
+}
+
+.heading {
+    font-size: 80px;
+    color: rgb(248, 248, 248);
+    text-align: center;
+    font-weight: 700;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#help {
+    color: rgb(76, 189, 119);
+}
+
+#need {
+    color: rgb(76, 189, 119);
+}
+
+#first-banner-pera {
+    color: white;
+    font-size: 25px;
+    font-family: 'Arima', cursive;
+    text-align: center;
+    font-weight: 400;
+    padding-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#first-banner-button {
+    border: none;
+    background-color: rgb(219, 86, 63);
+    padding: 15px 35px;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+#second-banner {
+    text-align: center;
+    position: relative;
+
+}
+
+#second-banner-heading {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(76, 189, 119);
+
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+#second-banner-pera {
+    color: rgb(12, 11, 11);
+    font-size: 25px;
+    font-family: 'Arima', cursive;
+
+    font-weight: 400;
+    padding-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#donate-today-display {
+    display: inline-flex;
+    position: 100%;
+
+}
+
+#taka-100 {
+    background-color: aliceblue;
+    width: fit-content;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    color: rgb(8, 8, 8);
+    padding: 30px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#taka-200 {
+    background-color: rgb(252, 198, 184);
+    width: fit-content;
+    border: 2px solid rgb(245, 8, 8);
+    border-radius: 15px;
+    color: red;
+    padding: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#taka-500 {
+    background-color: aliceblue;
+    width: fit-content;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    color: rgb(8, 8, 8);
+    padding: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#taka-1000 {
+    background-color: aliceblue;
+    width: fit-content;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    color: rgb(8, 8, 8);
+    padding: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#taka-5000 {
+    background-color: aliceblue;
+    width: fit-content;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    color: rgb(8, 8, 8);
+    padding: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#input-another-money {
+    font-size: 30px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+
+    margin-top: 150px;
+    text-align: center;
+}
+
+#second-banner-button {
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 35px;
+    background-color: tomato;
+    margin-top: 50px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#third-banner {
+    text-align: center;
+}
+
+#third-banner-heading {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    color: rgb(76, 189, 119);
+}
+
+#fourth-banner {
+    text-align: center;
+}
+
+#food-shelter-education-display {
+    display: inline-flex;
+
+    text-align: center;
+}
+
+h3 {
+    color: tomato;
+    font-family: 'Gulzar', serif;
+}
+
+p {
+    font-family: 'Arima', cursive;
+}
+
+#food {
+    background-color: aliceblue;
+    width: fit-content;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    color: rgb(8, 8, 8);
+    padding: 30px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#shelter {
+    background-color: rgba(241, 216, 237, 0.651);
+    width: fit-content;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    color: rgb(8, 8, 8);
+    padding: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#education {
+    background-color: rgb(237, 238, 175);
+    width: fit-content;
+    border: 2px solid rgb(255, 254, 254);
+    border-radius: 15px;
+    color: rgb(8, 8, 8);
+    padding: 30px;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#fifth-banner {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#fifth-banner-heading {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(76, 189, 119);
+}
+
+.half-width-01 {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 60px;
+}
+
+#fifth-banner-pera {
+    font-size: 25px;
+    font-family: 'Arima', cursive;
+    font-weight: 400;
+}
+
+#half-width {
+    width: 50%;
+}
+
+#fifth-banner-image {
+
+    border-radius: 16px;
+    border: 7px solid rgb(76, 189, 119);
+}
+
+#sixth-banner {
+    display: inline-flexbox;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#get-my-updates-heading {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(76, 189, 119);
+}
+
+#get-my-updates-pera {
+    font-size: 25px;
+    font-family: 'Arima', cursive;
+    font-weight: 400;
+}
+
+#email {
+    border: none;
+
+    color: white;
+    padding: 10px 35px;
+    background-color: rgb(231, 223, 222);
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#subscribe-button {
+    border: none;
+
+    color: white;
+    padding: 10px 35px;
+    background-color: rgb(219, 94, 56);
+    margin-top: 50px;
+    margin-left: 0;
+    ;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.about-us {
+    text-align: center;
+    padding-top: 100px;
+}
+
+#about-us-heading {
+    font-size: 103px;
+    font-family: 'Lobster', cursive;
+    color: rgb(216, 3, 180);
+    font-family: 'Niconne', cursive;
+}
+
+span {
+    color: rgb(250, 94, 3);
+}
+
+.introduce {
+    color: rgb(91, 218, 144);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    border-left: 7px solid blue;
+    border-top: 7px solid rgb(49, 191, 235);
+    border-bottom: 7px solid violet;
+    border-right: 7px solid rgb(243, 50, 36);
+}
+
+.top-banner {
+    display: flex;
+}
+
+.paragraph {
+    color: rgb(250, 94, 3);
+    text-align: justify;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+li {
+    text-align: left;
+    font-size: 40px;
+    color: rgb(19, 174, 212);
+    font-family: 'Katibeh', cursive;
+    font-weight: 600;
+}
+
+footer {
+    background-color: rgb(34, 25, 25);
+    text-align: center;
+    margin-top: 100px;
+    padding: 100px;
+}
+
+.footer-heading {
+    font-size: 60px;
+    color: tomato;
+    font-family: 'Lobster', cursive;
+}
+
+.footer-pera {
+    color: white;
+    size: 15px;
+    font-family: 'Arima', cursive;
+}
